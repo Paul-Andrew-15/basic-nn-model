@@ -50,7 +50,7 @@ Evaluate the model with the testing data.
 ## PROGRAM
 Developed By: **Paul Andrew D**
 <br/>
-Register Number: **212221230075*
+Register Number: *212221230075*
 ### Importing Modules
 ```py
 from google.colab import auth
